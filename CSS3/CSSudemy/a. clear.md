@@ -16,11 +16,9 @@ A função clear "limpa" os objetos flutuantes de sua região. Note que no prime
 
     background: rgb(133, 133, 219);
     border: 1px solid rgb(216, 216, 57);
-
     width: 200px;
     height: 200px;
     margin: 10px;
-
     float: left;
 }
 ```

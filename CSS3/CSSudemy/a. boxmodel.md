@@ -9,11 +9,8 @@ HTML5
 ```html
 
 <body>
-
     <div class ="contents"> Contents 1 </div>
-
     <div class="contents"> Contents 2 </div>
-
 </body>
 
 ```
@@ -21,12 +18,10 @@ CSS3
 ```css 
 
 .contents{
-	
    padding-top: 20px;
    padding-right: 15px;
    padding-bottom: 10px;
    padding-left: 5px;
-
 }
 
 ```
@@ -46,35 +41,17 @@ A #margin_css entre objetos não é acumulativa, a com maior valor sempre é usa
 ```CSS
 
 .contents{
-
     border: 1px solid red;
-
     padding: 10px;
-
     margin: 10px 10px 30px 10px;
-
-  
-
     width: 150px;
-
 }
 
 .contents2{
-
     border: 1px solid rgb(41, 128, 234);
-
-  
-
     padding: 10px;
-
     margin: 20px 10px 10px 10px;
-
-  
-
     width: 150px;
-
-  
-
 }
 ```
 
